@@ -19,7 +19,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **FPT Smart Cloud as Internship at IAAS Center**
+- 💼 I'm currently working on: **FPT Smart Cloud as Core Engineer Collaborator at IAAS Center**
 - 🌱 I'm currently learning: **OpenStack**
 - 📂 Portfolio: **<a href="https://kiet.edu.vn/" target="_blank">https://kiet.edu.vn/</a>**
 - 📝 Blog: **<a href="https://blog.nguyenanhkiet.net/" target="_blank">https://blog.nguyenanhkiet.net/</a>**
